@@ -1,1 +1,1 @@
-Different examples of some STM32 periphery 
+Different examples of some STM32&NXP periphery 
